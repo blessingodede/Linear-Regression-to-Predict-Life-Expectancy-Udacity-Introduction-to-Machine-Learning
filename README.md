@@ -1,4 +1,3 @@
-# My_First_Project
 # Linear Regression Quiz: 
 
 ## Getting Started 
