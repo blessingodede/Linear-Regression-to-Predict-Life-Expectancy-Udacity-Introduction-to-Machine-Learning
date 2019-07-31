@@ -5,8 +5,25 @@
 
 In this quiz, you'll be working with data on the average life expectancy at birth and the average BMI for males across the world. 
 
+### Install
+
+This project requires **Python 3.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
+We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+
+### Code
+
+Template code is provided in the `life_expectancy_prediction.ipynb` notebook file. You are required to use the `bmi_and_life_expectancy.csv` dataset file to complete your work. 
+
 ### Dataset 
-The data comes from [Gapminder](https://www.gapminder.org/). The dataset file can be found under the bmi_and_life_expectancy.csv tab in the quiz below. It includes three columns, containing the following data:
+The data comes from [Gapminder](https://www.gapminder.org/). The dataset file can be is `bmi_and_life_expectancy.csv`. It includes three columns, containing the following data:
 
 - `Country`: The country the person was born in.
 - `Life expectancy`: The average life expectancy at birth for a person in that country.
